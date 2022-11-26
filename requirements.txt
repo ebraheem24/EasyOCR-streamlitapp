@@ -1,15 +1,5 @@
 easyocr==1.6.2
-
+nltk==3.7
 numpy==1.23.5
-nltk
-pandas==1.5.2
-Pillow==9.3.0
-
-scikit-image==0.19.3
-scipy==1.9.3
-
 streamlit==1.15.1
-textblob==0.17.1
-
-torch==1.13.0
-torchvision==0.14.0
+PIL
